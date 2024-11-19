@@ -70,6 +70,3 @@ Tkinter documentation for GUI development.
 For any inquiries, please reach out to **salil.16440@stu.upes.ac.in**.
 
 
-### Notes:
-- Replace `yourusername` and `youremail@example.com` with your actual GitHub username and email address.
-- This `README.md` provides a clear overview of the project, its features, installation instructions, and how to use it, making it easy for others to understand and contribute to the project.
